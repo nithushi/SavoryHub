@@ -33,9 +33,9 @@ public class Mail {
         }
 
         private void sendEmailInternal(String to, String code) throws MessagingException {
-            String from = "nithushishavindi0@gmail.com";
-            final String username = "nithushishavindi0@gmail.com";
-            final String password = "gypq xjve xrdf qrhm";
+            String from = "your email";
+            final String username = "your email";
+            final String password = "your app password";
 
             String host = "smtp.gmail.com";
 
