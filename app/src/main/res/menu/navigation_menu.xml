@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_menu_dashboard"
+        android:title="@string/admin_dashboard_txt"
+        android:icon="@drawable/admin_dashboard"
+        android:actionLayout="@layout/custom_font_item"
+    />
+
+    <item
+        android:id="@+id/nav_menu_users"
+        android:title="@string/admin_users_txt"
+        android:icon="@drawable/admin_users"
+        android:actionLayout="@layout/custom_font_item"
+        />
+
+    <item
+        android:id="@+id/nav_menu_products"
+        android:title="@string/admin_product_txt"
+        android:icon="@drawable/admin_products"
+        android:actionLayout="@layout/custom_font_item"
+        />
+
+    <item
+        android:id="@+id/nav_menu_orders"
+        android:title="@string/admin_order_txt"
+        android:icon="@drawable/admin_orders"
+        android:actionLayout="@layout/custom_font_item"
+        />
+
+
+    <item
+        android:id="@+id/nav_menu_analyzing"
+        android:title="@string/admin_analyzing_txt"
+        android:icon="@drawable/admin_analysis"
+        android:actionLayout="@layout/custom_font_item"
+        />
+
+    <item
+        android:id="@+id/nav_menu_profile"
+        android:title="@string/admin_profile_txt"
+        android:icon="@drawable/admin_profile"
+        android:actionLayout="@layout/custom_font_item"
+        />
+
+    <item
+        android:id="@+id/nav_menu_logout"
+        android:title="@string/admin_logout_txt"
+        android:icon="@drawable/admin_logout"
+        android:actionLayout="@layout/custom_font_item"
+        />
+
+</menu>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9081972806",
+    "project_id": "savoryhub-3a431",
+    "storage_bucket": "savoryhub-3a431.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9081972806:android:77ffaf11a7facfcb2a8247",
+        "android_client_info": {
+          "package_name": "lk.javainstitute.savoryhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2yphHCcES1-8XWn_8ymFQUybgvLX9Kk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

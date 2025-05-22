@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textAppearance">@style/CustomToolbarTextAppearance</item>
+    </style>
+
+    <!-- Custom Toolbar Text Appearance -->
+    <style name="CustomToolbarTextAppearance" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- Custom Toolbar SubText Appearance -->
+    <style name="CustomToolbarSubTextAppearance" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="fontFamily">@font/poppins_medium</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/blue_gray</item>
+    </style>
+
+    <!-- Custom Toolbar MenuItem Appearance -->
+    <style name="CustomMenuItemTextAppearance" parent="TextAppearance.AppCompat.Widget.ActionBar.Menu">
+        <item name="fontFamily">@font/poppins_medium</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/blue_gray</item>
+    </style>
+
+</resources>

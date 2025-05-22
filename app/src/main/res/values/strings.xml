@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">SavoryHub</string>
+
+    <string name="intro_text_1">Welcome To SavoryHub</string>
+    <string name="intro_text2">Shared and delightful, for an easy and enjoyable food ordering experiences</string>
+    <string name="intro_text_3">Login</string>
+    <string name="intro_text_4">Sign Up</string>
+
+    <string name="signIn_text1">SavoryHub</string>
+    <string name="signIn_text2">Forgot Password ?</string>
+    <string name="signIn_btn1">Login</string>
+    <string name="signIn_text3">OR</string>
+    <string name="signIn_text4">You Are Not User?</string>
+    <string name="signIn_text5">Sign Up</string>
+
+    <string name="signUp_text1">First Name</string>
+    <string name="signUp_text2">Last Name</string>
+    <string name="signUp_text3">Mobile</string>
+    <string name="signUp_text4">Email</string>
+    <string name="signUp_text5">Password</string>
+    <string name="signUp_btn1">Sign Up</string>
+    <string name="signUp_text6">Already User?</string>
+    <string name="signUp_text7">Sign In</string>
+
+    <string name="home_text1">Welcome</string>
+    <string name="home_text2">Search Foods...</string>
+    <string name="home_text3">Today Best Foods</string>
+    <string name="home_text4">View All</string>
+    <string name="home_text5">Choose Category</string>
+    <string name="home_text6">+</string>
+
+    <string name="detail_btn1">Add To Cart</string>
+    <string name="detail_txt1">Total Amount</string>
+
+    <string name="cart_text1">Cart</string>
+    <string name="cart_text2">Enter Your Code</string>
+    <string name="cart_text3">Apply Coupon</string>
+    <string name="cart_text4">Order Summery</string>
+    <string name="cart_text5">Sub Total</string>
+    <string name="cart_text6">Delivery</string>
+    <string name="cart_text7">Total</string>
+    <string name="cart_text8">Checkout</string>
+
+    <string name="admin_dashboard_txt">Dashboard</string>
+    <string name="admin_users_txt">Manage Deliver Personals</string>
+    <string name="admin_product_txt">Manage Products</string>
+    <string name="admin_analyzing_txt">Analyzing</string>
+    <string name="admin_order_txt">All Orders</string>
+    <string name="admin_profile_txt">Profile</string>
+    <string name="admin_logout_txt">Logout</string>
+
+
+    <string name="admin_app_title">SavoryHub</string>
+    <string name="admin_app_email">savoryhub@gmail.com</string>
+    <string name="admin_app_text1">SavoryHub Admin</string>
+
+    <string name="admin_dashboard_txt1">New Users</string>
+    <string name="admin_dashboard_txt2">Total Orders</string>
+    <string name="admin_dashboard_txt3">Products Sell</string>
+    <string name="admin_dashboard_txt4">Income</string>
+
+    <string name="user_profile_txt1">My Orders</string>
+    <string name="user_profile_txt2">Payments</string>
+    <string name="user_profile_txt3">Settings</string>
+    <string name="user_profile_txt4">Log Out</string>
+    <string name="user_profile_txt5">Edit Profile</string>
+
+    <string name="verification_code">Verification Code</string>
+    <string name="verificatio_btn">Verify</string>
+
+    <string name="admin_product_panel_title">Product Details</string>
+    <string name="admin_product_detail_title">Product Title</string>
+    <string name="admin_product_detail_description">Product Description</string>
+    <string name="admin_product_detail_price">Product Price</string>
+    <string name="admin_product_detail_category">Product Category</string>
+    <string name="admin_product_detail_availability">Product Availability</string>
+    <string name="admin_product_detail_delivery">Product Delivery Charges</string>
+    <string name="admin_product_detail_id">Product Identification</string>
+
+    <string name="admin_logout">If You Want To Logout From Your Account ?</string>
+    <string name="admin_user_manage">User Details</string>
+
+    <string name="admin_profile_txt1">Account Settings</string>
+    <string name="admin_profile_txt2">Account Setting Offer Personilization Options For A Taliored Experiences</string>
+    <string name="admin_profile_txt3">Change Picture</string>
+    <string name="admin_profile_txt4">Delete</string>
+
+    <string name="payment_txt1">Payment</string>
+    <string name="payment_txt2">Your Payment Success</string>
+    <string name="payment_txt3">Tracking Order</string>
+
+    <string name="checkout_txt1">Order Id</string>
+    <string name="map_txt1">Delivery Time (15-25 Minutes)</string>
+    <string name="map_txt2">Delivery Location</string>
+
+    <string name="order_txt1">Order History</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
